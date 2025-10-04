@@ -1,5 +1,5 @@
 
-**Shopping Cart System**
+### **Shopping Cart System**
 
 ###  **Overview**
 
@@ -20,5 +20,6 @@ The **Shopping Cart System** is a console-based Java application designed to sim
 ### **Purpose**
 
 This project serves as a **practical implementation** of OOP concepts in Java, showcasing how structured programming can be applied to develop a simple yet functional shopping system. It’s ideal for students or beginners aiming to strengthen their understanding of Java classes, objects, and program flow in a real-world context.
+
 
 
